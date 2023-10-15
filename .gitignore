@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DZ07_Parallelism/DZ07_Parallelism/obj
+/DZ07_Parallelism/.vs/DZ07_Parallelism
